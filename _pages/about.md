@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Mengqian Xu is a Ph.D. student of Software Engineering Institute, [East China Normal University](https://english.ecnu.edu.cn) (2024-) and [Shanghai Innovation Institute](https://www.sii.edu.cn), co-advised by[ Prof. Ting Su](https://tingsu.github.io) and [Prof. Chengcheng Wan](https://chengcheng-wan.github.io). Her undergraduate studies were undertaken at [Anhui Normal University](https://www.ahnu.edu.cn) (2017-2021).
+Mengqian Xu is a Ph.D. student of Software Engineering Institute, [East China Normal University](https://english.ecnu.edu.cn) (2024-) and [Shanghai Innovation Institute](https://www.sii.edu.cn), co-advised by Prof. [Ting Su](https://tingsu.github.io) and Prof. [Chengcheng Wan](https://chengcheng-wan.github.io). Her undergraduate studies were undertaken at [Anhui Normal University](https://www.ahnu.edu.cn) (2017-2021).
 
 Her research include:
 - LLM for SE
