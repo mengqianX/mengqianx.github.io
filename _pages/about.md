@@ -63,14 +63,14 @@ Research Projects
 Award
 ======
 <!-- 1. National Scholarship, China, 2027. -->
-1. Second Prize of Wisdom Scholarship of East China Normal University Press (in Chinese: 华东师范大学出版社智慧奖学金二等奖), 2025.
-2. Outstanding Graduate Award, Shanghai (in Chinese: 上海市优秀毕业生), 2024.
-4. Outstanding Master's Thesis of East China Normal University (in Chinese: 华东师范大学优秀硕士学位论文), 2024.
-5. ACM SIGSOFT Distinguished Paper award, ISSTA (in Chinese: ISSTA 杰出论文奖), 2023.
-6. Outstanding Student Cadre of East China Normal University (in Chinese: 华东师范大学优秀学生干部), 2023.
-7. Merit Student of East China Normal University (in Chinese: 华东师范大学优秀学生), 2022-2023.
-8. Outstanding Graduate Award (in Chinese: 安徽省优秀毕业生), Anhui, 2021.
-9. Outstanding Undergraduate Thesis of Anhui Province (in Chinese: 安徽省优秀本科毕业设计), 2021.
+<!-- 2. Second Prize of Wisdom Scholarship of East China Normal University Press (in Chinese: 华东师范大学出版社智慧奖学金二等奖), 2025. -->
+1. Outstanding Graduate Award, Shanghai (in Chinese: 上海市优秀毕业生), 2024.
+2. Outstanding Master's Thesis of East China Normal University (in Chinese: 华东师范大学优秀硕士学位论文), 2024.
+3. ACM SIGSOFT Distinguished Paper award, ISSTA (in Chinese: ISSTA 杰出论文奖), 2023.
+4. Outstanding Student Cadre of East China Normal University (in Chinese: 华东师范大学优秀学生干部), 2023.
+5. Merit Student of East China Normal University (in Chinese: 华东师范大学优秀学生), 2022-2023.
+6. Outstanding Graduate Award (in Chinese: 安徽省优秀毕业生), Anhui, 2021.
+7. Outstanding Undergraduate Thesis of Anhui Province (in Chinese: 安徽省优秀本科毕业设计), 2021.
 
 <!-- Research Interest
 ------
